@@ -9,7 +9,6 @@ int main()
 		printf("dev test");
 		a = 1000;
 		printf("a== %d\r\n",a);
-
-
+		printf("acount == %d \r\n",a++);
 	return 0;
 }
